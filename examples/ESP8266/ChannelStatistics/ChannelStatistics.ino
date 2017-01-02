@@ -8,7 +8,7 @@
     OLED code added by TheDIYGuy999
  *******************************************************************/
 
-// ESP8288
+// ESP8266
 #include <ESP8266WiFi.h>
 #include <WiFiClientSecure.h>
 
